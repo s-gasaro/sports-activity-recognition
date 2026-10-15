@@ -1,0 +1,7 @@
+models/
+*.joblib
+*.h5
+*.keras
+*.zip
+*.dat
+pamap2/
