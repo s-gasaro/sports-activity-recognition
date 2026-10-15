@@ -4,7 +4,7 @@ This project compares traditional machine learning (scikit-learn) and deep learn
 
 - **Report:** [link]
 - **Video:** [link]
-- **Google Drive (raw dataset + saved models):** [link]
+- **Google Drive (raw dataset + saved models):** [https://drive.google.com/drive/folders/1q0aXndoAqbeOX4MPRwMLEPGHjbbvENHM?usp=sharing]
 
 ## Problem
 Wearable sensors can track what someone is doing (walking, running, cycling, rope jumping), which supports fitness and sports monitoring. A model is only useful if it works for new users. People wear sensors differently and move differently, so a model trained on some people can fail on others. This project asks how well traditional ML and deep learning recognise activities for an unseen person, and what limits each approach.
