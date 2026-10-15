@@ -1,0 +1,13 @@
+,Random Forest (ML-11),CNN1D (DL-11)
+lying,0.929,0.848
+sitting,0.669,0.019
+standing,0.656,0.589
+walking,0.945,0.964
+running,0.966,0.966
+cycling,0.938,0.8
+nordic_walking,0.937,0.947
+ascending_stairs,0.882,0.902
+descending_stairs,0.883,0.796
+vacuum_cleaning,0.894,0.61
+ironing,0.726,0.908
+rope_jumping,0.941,0.934
