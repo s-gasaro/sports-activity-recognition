@@ -2,8 +2,8 @@
 
 This project compares traditional machine learning (scikit-learn) and deep learning (TensorFlow/Keras) on classifying 12 physical activities from body-worn sensors. All evaluation is on **people the models have never seen**.
 
-- **Report:** [link]
-- **Video:** [link]
+- **Report:** [Sarah Gasaro_ML_Summative Project_Report](https://docs.google.com/document/d/1bKC_XaPl_tqEN1w4JOoyWWpQd4CsWb0IrAimjfLblDE/edit?usp=sharing)
+- **Video:** [Demo](https://drive.google.com/file/d/17_zJ2sWR3UkAaagnXCgXkNW51oz_b24N/view?usp=sharing)
 - **Google Drive (raw dataset + saved models):** [PAMAP2 dataset and models](https://drive.google.com/drive/folders/1q0aXndoAqbeOX4MPRwMLEPGHjbbvENHM?usp=sharing)
 
 ## Problem
